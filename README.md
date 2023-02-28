@@ -6,6 +6,7 @@ My plan for this repository is:
    As of now, the repository contains: 
    - Julia Types
    - Julia Operators
+   - Julia Data Structures
 2) Create a set of Notebooks containing more advanced algorithm coded in Julia. As of now I plan to write two algorithms for solving the TSP problem (greedy and simulated annealing).
 
 If you notice any error in the notebooks or you would like to prorpose a change just drop an email.
