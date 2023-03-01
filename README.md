@@ -5,12 +5,12 @@ My plan for this repository is:
 
    As of now, the repository contains: 
    - **Julia Types**
-   - Julia Advanced Types (Composite/Mutable/Parametric Composite Types & Type Union)
-   - Julia Operators (Arithmetic, Logical and Boolean Operators)
-   - Julia Data Structures (Arrays, Vectors, Matrices, Tuples, Dictionaries and Sets)
-   - Julia Programming Structures (Loops, Conditionals and Functions)
-   - Metaprogramming In Julia (Expressions, Macros and Generated Functions)
-   - Extras (Random Numbers, Parralel, Try Catch-Errors and Plots)
+   - **Julia Advanced Types** (Composite/Mutable/Parametric Composite Types & Type Union)
+   - **Julia Operators** (Arithmetic, Logical and Boolean Operators)
+   - **Julia Data Structures** (Arrays, Vectors, Matrices, Tuples, Dictionaries and Sets)
+   - **Julia Programming Structures** (Loops, Conditionals and Functions)
+   - **Metaprogramming In Julia** (Expressions, Macros and Generated Functions)
+   - **Extras** (Random Numbers, Parralel, Try Catch-Errors and Plots)
 2) Create a set of Notebooks containing more advanced algorithm coded in Julia. As of now I plan to write two algorithms for solving the TSP problem (greedy and simulated annealing).
 
 If you notice any error in the notebooks or you would like to prorpose a change just drop an email.
