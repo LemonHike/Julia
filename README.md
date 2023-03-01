@@ -4,7 +4,7 @@ My plan for this repository is:
 1) Create a set of Notebooks containing basic Julia commands.
 
    As of now, the repository contains: 
-   - Julia Types 
+   - **Julia Types**
    - Julia Advanced Types (Composite/Mutable/Parametric Composite Types & Type Union)
    - Julia Operators (Arithmetic, Logical and Boolean Operators)
    - Julia Data Structures (Arrays, Vectors, Matrices, Tuples, Dictionaries and Sets)
