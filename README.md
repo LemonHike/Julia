@@ -8,6 +8,7 @@ My plan for this repository is:
    - Julia Advanced Types (Composite/Mutable/Parametric Composite Types & Type Union)
    - Julia Operators
    - Julia Data Structures
+   - Julia Programming Structures (Loops, Conditionals and Functions)
 2) Create a set of Notebooks containing more advanced algorithm coded in Julia. As of now I plan to write two algorithms for solving the TSP problem (greedy and simulated annealing).
 
 If you notice any error in the notebooks or you would like to prorpose a change just drop an email.
