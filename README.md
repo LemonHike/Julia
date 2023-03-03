@@ -3,7 +3,7 @@ As I've struggled a little bit in finding a comprehensible and accessible Julia 
 My plan for this repository is:
 1) Create a set of Notebooks containing basic Julia commands.
 
-   As of now, the **Basic Command* folder contains: 
+   As of now, the **Basic Command** folder contains: 
    - **Julia Types**
    - **Julia Advanced Types** (Composite/Mutable/Parametric Composite Types & Type Union)
    - **Julia Operators** (Arithmetic, Logical and Boolean Operators)
