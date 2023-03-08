@@ -16,4 +16,4 @@ What you can find in this folder:
    - **Extras** (Random Numbers, Parrallel, Try Catch-Errors and Plots)
 
 As I am just a beginner, the notebookes may contain some errors or imprecisions. 
-If you Notice any, please send me an email.
+If you notice any, please send me an email.
